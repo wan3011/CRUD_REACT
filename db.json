@@ -1,0 +1,136 @@
+{
+  "posts": [
+    {
+      "nama": "maulana",
+      "provinsi": {
+        "id": 11,
+        "nama": "Aceh"
+      },
+      "kabupaten": {
+        "id": 1101,
+        "id_provinsi": "11",
+        "nama": "Kabupaten Simeulue"
+      },
+      "kecamatan": {
+        "id": 1101030,
+        "id_kota": "1101",
+        "nama": "Simeulue Tengah"
+      },
+      "kelurahan": {
+        "id": 1101030003,
+        "id_kecamatan": "1101030",
+        "nama": "Lambaya"
+      },
+      "id": "6"
+    },
+    {
+      "nama": "siddiq",
+      "provinsi": {
+        "id": 12,
+        "nama": "Sumatera Utara"
+      },
+      "kabupaten": {
+        "id": 1203,
+        "id_provinsi": "12",
+        "nama": "Kabupaten Tapanuli Selatan"
+      },
+      "kecamatan": {
+        "id": 1203070,
+        "id_kota": "1203",
+        "nama": "Angkola Timur"
+      },
+      "kelurahan": {
+        "id": 1203070080,
+        "id_kecamatan": "1203070",
+        "nama": "Lantosan Rogas"
+      },
+      "id": "8"
+    },
+    {
+      "nama": "pasien1",
+      "provinsi": {
+        "id": 15,
+        "nama": "Jambi"
+      },
+      "kabupaten": {
+        "id": 1508,
+        "id_provinsi": "15",
+        "nama": "Kabupaten Tebo"
+      },
+      "kecamatan": {
+        "id": 1508022,
+        "id_kota": "1508",
+        "nama": "Tengah Ilir"
+      },
+      "kelurahan": {
+        "id": 1508022003,
+        "id_kecamatan": "1508022",
+        "nama": "Mengupeh"
+      },
+      "id": "9"
+    },
+    {
+      "nama": "abc",
+      "provinsi": {
+        "id": 11,
+        "nama": "Aceh"
+      },
+      "kabupaten": {
+        "id": 1106,
+        "id_provinsi": "11",
+        "nama": "Kabupaten Aceh Tengah"
+      },
+      "kecamatan": {
+        "id": 1106041,
+        "id_kota": "1106",
+        "nama": "Bies"
+      },
+      "kelurahan": {
+        "id": 1106041007,
+        "id_kecamatan": "1106041",
+        "nama": "Bies Penentanan"
+      },
+      "id": "10"
+    },
+    {
+      "nama": "Avery",
+      "provinsi": {},
+      "kabupaten": {},
+      "kecamatan": {},
+      "kelurahan": {},
+      "id": "11"
+    },
+    {
+      "nama": "Antwon",
+      "provinsi": {},
+      "kabupaten": {},
+      "kecamatan": {},
+      "kelurahan": {},
+      "id": "12"
+    },
+    {
+      "nama": "Aubrey",
+      "provinsi": {},
+      "kabupaten": {},
+      "kecamatan": {},
+      "kelurahan": {},
+      "id": "13"
+    },
+    {
+      "nama": "Ashlee",
+      "provinsi": {},
+      "kabupaten": {},
+      "kecamatan": {},
+      "kelurahan": {},
+      "id": "14"
+    },
+    {
+      "nama": "Erick",
+      "provinsi": {},
+      "kabupaten": {},
+      "kecamatan": {},
+      "kelurahan": {},
+      "id": "15"
+    }
+  ]
+}
